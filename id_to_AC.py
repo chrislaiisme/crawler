@@ -9,7 +9,11 @@ while True:
     
     soup = BeautifulSoup(r.text,"html.parser")
     sel = soup.select("div.col-md-8 a")
-
+    
+    if len(sel) == 0:
+        print("Id doesn't exist")
+        continue
+    
     success = []
     muted = []
     warning = []
