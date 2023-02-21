@@ -32,14 +32,3 @@ while True:
     print("AC:")
     for i in success:
         print(i)
-
-    '''
-    print()
-    print("WA:")
-    for i in warning:
-        print(i)
-    print()
-    print("None:")
-    for i in muted:
-        print(i)
-    '''
