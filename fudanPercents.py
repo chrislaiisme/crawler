@@ -1,5 +1,4 @@
 import requests as req
-
 from bs4 import BeautifulSoup as bs
 
 link = "https://www.fdhs.tyc.edu.tw/e-fdhs/news/out_news_detail_80.php?news_id="
