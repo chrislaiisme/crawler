@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 
 """
 link = "https://www.fdhs.tyc.edu.tw/e-fdhs/news/out_news_detail_80.php?news_id="
-for i in range(572, 0, -1):
+for i in range(573, 0, -1):
     res = req.get(link+str(i))
     res.encoding = 'big5'
     soup = bs(res.text, "html.parser")
