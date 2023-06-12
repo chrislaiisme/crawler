@@ -42,4 +42,10 @@ for i in range(0, len(arr)):
             tmp.append(count)
     tmp.append(count)
     chart.append(tmp)
-print(chart)
+
+s = "------|------|-------"
+print("  Year|   NTU|   TFU")
+print(s)
+for i in chart:
+    for j in range(0, 3):
+        print('{:6}'.format(i[j]), end = ('\n' if j == 2 else '|'))
