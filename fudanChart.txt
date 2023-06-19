@@ -1,3 +1,4 @@
+
    Year|    NTU|    TFU|    NOP|   NTU%|   TFU%
 -------|-------|-------|-------|-------|-------
     112|     29|    117|    558|   5.2%| 20.97%
@@ -15,15 +16,14 @@
     100|      6|     38|      ?|  1.06%|  6.73%
      99|      2|     31|      ?|  0.35%|  5.49%
      98|      6|     19|      ?|  1.06%|  3.36%
-Average:
 
+Average:
 NTU%: 2.95%
 TFU%: 12.7%
 
-*** Supplementary informations ***
-NTU = National Taiwan University
-TFU = Top Five Universities
-NOP = Number Of People (565 by default if there's no data)
+* NTU = National Taiwan University
+* TFU = Top Five Universities
+* NOP = Number Of People (565 by default if there's no data)
 
-The number 565 comes from "https://www.fdhs.tyc.edu.tw/campus/brief.htm" with 3391/6 = 565.166666667
-All data are from "https://www.fdhs.tyc.edu.tw/"
+* The number 565 comes from "https://www.fdhs.tyc.edu.tw/campus/brief.htm" with 3391/6 = 565.166666667
+* All data are from "https://www.fdhs.tyc.edu.tw/"
