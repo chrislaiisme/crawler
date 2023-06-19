@@ -1,5 +1,5 @@
-NTU = National Taiwan University
-TFU = Top Five Universities
+* NTU = National Taiwan University
+* TFU = Top Five Universities
 
 School     |   NTU    |  TFU  
 -------------|----------|----------
