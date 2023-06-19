@@ -1,4 +1,7 @@
- School     |   NTU    |  TFU  
+NTU = National Taiwan University
+TFU = Top Five Universities
+
+School     |   NTU    |  TFU  
 -------------|----------|----------
   建國中學    |  35%     |  ?       
   北一女中    |  33.7%   |  63.9%   
