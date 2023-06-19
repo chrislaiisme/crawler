@@ -59,7 +59,6 @@ print(s)
 for i in chart:
     for j in range(0, 6):
         print('{:>7}'.format(i[j]), end = ('\n' if j == 5 else '|'))
-print('Average:')
 NTUn = 0
 TFUn = 0
 NOPn = 0
@@ -68,6 +67,7 @@ for i in chart:
     TFUn += i[2]
     NOPn += dft_nop if i[3] == '?' else i[3]
 print()
+print('Average:')
 print("NTU%: ", end = '')
 print(str(round(NTUn/NOPn*100, 2)) + '%')
 print("TFU%: ", end = '')
